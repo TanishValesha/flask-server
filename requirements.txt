@@ -1,5 +1,6 @@
-Flask==2.3.2
+Flask==2.3.2 # Or your specific version
 pandas==2.0.3
+numpy==1.24.4
 Werkzeug==2.3.7
 Flask-Cors==4.0.0
 gunicorn==21.2.0
